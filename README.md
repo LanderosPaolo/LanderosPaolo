@@ -34,7 +34,6 @@ const aboutMe = {
 <img src="https://img.shields.io/badge/-postman-f76935?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-express-010101?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-vite-5258c4?style=flat&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/-vscode-0066b8?style=flat&logo=visualstudiocode&logoColor=white">
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanderosPaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
