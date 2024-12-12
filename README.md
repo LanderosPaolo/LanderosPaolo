@@ -6,10 +6,10 @@ Fan of videogames, science fiction books and, of course, Star Wars. Mechanical e
 const aboutMe = {
     technologies:{
         frontEnd: ["HTML", "CSS", "Bootstrap", "JavaScript", "React"],
-        backtEnd: ["Nodejs", "Express", "Python", "Java"],
+        backEnd: ["Nodejs", "Express", "Python", "Java"],
         database: ["PostgreSQL", "MySql"],
         devOps: ["Git", "GitHub"],
-        Tools: ["VSCode", "IntelliJ"]
+        tools: ["VSCode", "IntelliJ"]
     },
   currentOccupation: ["Student, excited to enter this beautiful world of programming."],
 }
