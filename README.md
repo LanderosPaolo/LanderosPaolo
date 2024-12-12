@@ -27,15 +27,14 @@ const aboutMe = {
 <img src="http://img.shields.io/badge/-Github-81229a?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/-Java-000?&logo=Java">
 <img src="https://img.shields.io/badge/-Node%20Js-3f873f?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-NPM-000?style=flat&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/-postgreSQL-31648c?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-swagger-6a9500?style=flat&logo=swagger&logoColor=white">
 <img src="https://img.shields.io/badge/-postman-f76935?style=flat&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/-express-010101?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-vite-5258c4?style=flat&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-000?&logo=Java">
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanderosPaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
