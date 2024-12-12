@@ -35,6 +35,7 @@ const aboutMe = {
 <img src="https://img.shields.io/badge/-vite-5258c4?style=flat&logo=vite&logoColor=white">
 <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white">
 <img src="https://img.shields.io/badge/-Java-000?&logo=Java">
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanderosPaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
