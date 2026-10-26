@@ -1,47 +1,42 @@
-### Hello There, I'm Paolo! 👋
+# Hi, I'm Paolo! 👋
 
-Fan of videogames, science fiction books and, of course, Star Wars. Mechanical engineer, currently self-studying everything related to web development to be able to work in the future in this beautiful world of coding.
+**Junior Web Developer | React · JavaScript · HTML · CSS**  
+📍 Santiago, Chile
 
-```javascript
-const aboutMe = {
-    technologies:{
-        frontEnd: ["HTML", "CSS", "Bootstrap", "JavaScript", "React"],
-        backEnd: ["Nodejs", "Express", "Python", "Java"],
-        database: ["PostgreSQL", "MySql"],
-        devOps: ["Git", "GitHub"],
-        tools: ["VSCode", "IntelliJ"]
-    },
-  currentOccupation: ["Student, excited to enter this beautiful world of programming."],
-}
-```
-### Tech & Tools Preference
+I'm a web developer with hands-on experience building websites for real clients and small businesses. I enjoy turning requirements into clear, usable interfaces, and I've worked on projects from implementation through deployment.
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-81229a?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/-Node%20Js-3f873f?style=flat&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-postgreSQL-31648c?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/-swagger-6a9500?style=flat&logo=swagger&logoColor=white">
-<img src="https://img.shields.io/badge/-postman-f76935?style=flat&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/-express-010101?style=flat&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/-vite-5258c4?style=flat&logo=vite&logoColor=white">
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/-Java-000?&logo=Java">
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+My main focus is **frontend development with React and JavaScript**. I also have academic project experience with **Node.js, Express, PostgreSQL, Java, Spring Boot and Python**.
 
-### GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LanderosPaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br><br>
-![](https://github-readme-stats.vercel.app/api?username=LanderosPaolo&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br><br>
-[![HitCount](http://hits.dwyl.com/LanderosPaolo/LanderosPaolo/LanderosPaolo.svg)](http://hits.dwyl.com/LanderosPaolo/LanderosPaolo/LanderosPaolo)
+I'm currently strengthening my Java skills and continuing to build practical projects.
 
+## 🚀 Featured work
+
+| Project | What I worked on | Stack |
+| --- | --- | --- |
+| [Affiniti](https://github.com/LanderosPaolo/affiniti) · [Original website](https://affiniti.onrender.com/) | Independently designed and developed the original corporate website for a cybersecurity services company. | React, Vite, Bootstrap |
+| [RecuperoFacturas](https://github.com/LanderosPaolo/recupero-facturas) · [Website](https://recuperofacturas.cl/) | Built a client website based on supplied visual and content requirements. | React, Vite, Bootstrap |
+| [NEXA](https://github.com/LanderosPaolo/proyecto-nexa) | Developed a responsive landing page and worked on the design and configuration of a Shopify store. | HTML, CSS, JavaScript, Shopify |
+| [Game Deals Explorer](https://github.com/LanderosPaolo/game-deals-explorer) | Built a game-deals search interface using a public API, React Router and reusable hooks. | React, JavaScript, Vite |
+| [Comicskites — Backend](https://github.com/LanderosPaolo/Backend_proyecto_final) | Contributed to a team e-commerce project, focusing on backend development and Swagger API documentation. | Node.js, Express, PostgreSQL, JWT, Swagger |
+| [Java / Spring Boot — Final Project](https://github.com/LanderosPaolo/Bootcamp-Java/tree/main/Modulo%206/Final/PruebaFinal) | Built an academic application featuring student and subject management, persistence and authentication components. | Java, Spring Boot, JPA, MySQL, Thymeleaf |
+
+## 🛠️ Technologies
+
+**Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Vite  
+**Backend and databases (project experience):** Node.js, Express, Java, Spring Boot, Python, PostgreSQL, MySQL  
+**Tools and platforms:** Git, GitHub, Shopify, Swagger, Postman, VS Code, IntelliJ IDEA
+
+## 🌱 A little more about me
+
+Before focusing on software development, I studied automotive mechanical engineering and worked in technical roles. I bring that practical, problem-solving background into programming.
+
+Outside coding, I'm into videogames, science-fiction books and Star Wars. 🌌
+
+## 📫 Connect
+
+- [GitHub repositories](https://github.com/LanderosPaolo?tab=repositories)
+
+<!-- Add your verified LinkedIn, portfolio and professional email here before publishing. -->
 <!--
 **LanderosPaolo/LanderosPaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
