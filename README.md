@@ -1,53 +1,66 @@
-# Hi, I'm Paolo! 👋
+# ¡Hola! Soy Paolo 👋
 
-**Junior Web Developer | React · JavaScript · HTML · CSS**  
+### Desarrollador Web Junior | React · JavaScript · HTML · CSS
+
 📍 Santiago, Chile
 
-I'm a web developer with hands-on experience building websites for real clients and small businesses. I enjoy turning requirements into clear, usable interfaces, and I've worked on projects from implementation through deployment.
+Soy desarrollador web con experiencia creando sitios para clientes y emprendimientos reales. Me gusta transformar necesidades en interfaces claras, funcionales y adaptables a distintos dispositivos, participando desde el desarrollo hasta la publicación.
 
-My main focus is **frontend development with React and JavaScript**. I also have academic project experience with **Node.js, Express, PostgreSQL, Java, Spring Boot and Python**.
+Mi principal enfoque es el **desarrollo frontend con React y JavaScript**. También he trabajado con **Node.js, Express, PostgreSQL, Java, Spring Boot y Python** en proyectos de formación y práctica.
 
-I'm currently strengthening my Java skills and continuing to build practical projects.
+Actualmente continúo fortaleciendo mis conocimientos de Java y desarrollando proyectos para seguir creciendo profesionalmente.
 
-## 🚀 Featured work
+## 🚀 Proyectos destacados
 
-| Project | What I worked on | Stack |
+| Proyecto | Mi participación | Tecnologías |
 | --- | --- | --- |
-| [Affiniti](https://github.com/LanderosPaolo/affiniti) · [Original website](https://affiniti.onrender.com/) | Independently designed and developed the original corporate website for a cybersecurity services company. | React, Vite, Bootstrap |
-| [RecuperoFacturas](https://github.com/LanderosPaolo/recupero-facturas) · [Website](https://recuperofacturas.cl/) | Built a client website based on supplied visual and content requirements. | React, Vite, Bootstrap |
-| [NEXA](https://github.com/LanderosPaolo/proyecto-nexa) | Developed a responsive landing page and worked on the design and configuration of a Shopify store. | HTML, CSS, JavaScript, Shopify |
-| [Game Deals Explorer](https://github.com/LanderosPaolo/game-deals-explorer) | Built a game-deals search interface using a public API, React Router and reusable hooks. | React, JavaScript, Vite |
-| [Comicskites — Backend](https://github.com/LanderosPaolo/Backend_proyecto_final) | Contributed to a team e-commerce project, focusing on backend development and Swagger API documentation. | Node.js, Express, PostgreSQL, JWT, Swagger |
-| [Java / Spring Boot — Final Project](https://github.com/LanderosPaolo/Bootcamp-Java/tree/main/Modulo%206/Final/PruebaFinal) | Built an academic application featuring student and subject management, persistence and authentication components. | Java, Spring Boot, JPA, MySQL, Thymeleaf |
+| [Affiniti](https://github.com/LanderosPaolo/affiniti) · [Sitio original](https://affiniti.onrender.com/) | Diseñé y desarrollé de forma independiente la versión original del sitio corporativo de una empresa de ciberseguridad. | React, Vite, Bootstrap |
+| [RecuperoFacturas](https://github.com/LanderosPaolo/recupero-facturas) · [Sitio web](https://recuperofacturas.cl/) | Desarrollé un sitio para un cliente a partir de los requerimientos visuales y de contenido proporcionados. | React, Vite, Bootstrap |
+| [NEXA](https://github.com/LanderosPaolo/proyecto-nexa) | Desarrollé una página web responsiva y participé en el diseño y configuración de una tienda Shopify. | HTML, CSS, JavaScript, Shopify |
+| [Game Deals Explorer](https://github.com/LanderosPaolo/game-deals-explorer) | Creé una aplicación para consultar ofertas de videojuegos mediante una API pública, React Router y hooks personalizados. | React, JavaScript, Vite |
+| [Comicskites — Backend](https://github.com/LanderosPaolo/Backend_proyecto_final) | Participé en un proyecto colaborativo de comercio electrónico, principalmente en el backend y la documentación de la API con Swagger. | Node.js, Express, PostgreSQL, JWT, Swagger |
+| [Proyecto final Java / Spring Boot](https://github.com/LanderosPaolo/Bootcamp-Java/tree/main/Modulo%206/Final/PruebaFinal) | Desarrollé una aplicación académica con gestión de alumnos y materias, persistencia y componentes de autenticación. | Java, Spring Boot, JPA, MySQL, Thymeleaf |
 
-## 🛠️ Technologies
+## 🛠️ Tecnologías y herramientas
 
-**Frontend:** HTML, CSS, JavaScript, React, Bootstrap, Vite  
-**Backend and databases (project experience):** Node.js, Express, Java, Spring Boot, Python, PostgreSQL, MySQL  
-**Tools and platforms:** Git, GitHub, Shopify, Swagger, Postman, VS Code, IntelliJ IDEA
+### Frontend
 
-## 🌱 A little more about me
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-Before focusing on software development, I studied automotive mechanical engineering and worked in technical roles. I bring that practical, problem-solving background into programming.
+### Backend y bases de datos
 
-Outside coding, I'm into videogames, science-fiction books and Star Wars. 🌌
+*Tecnologías utilizadas en proyectos y formación.*
 
-## 📫 Connect
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-444444?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- [GitHub repositories](https://github.com/LanderosPaolo?tab=repositories)
+### Herramientas y plataformas
 
-<!-- Add your verified LinkedIn, portfolio and professional email here before publishing. -->
-<!--
-**LanderosPaolo/LanderosPaolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-Here are some ideas to get you started:
+## 🌱 Un poco más sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Antes de enfocarme en el desarrollo de software, estudié Ingeniería Mecánica Automotriz y trabajé en áreas técnicas. Esa experiencia me ayudó a desarrollar una forma práctica y analítica de resolver problemas, que hoy aplico a la programación.
+
+Fuera del código, disfruto los videojuegos, los libros de ciencia ficción y, por supuesto, **Star Wars**. 🌌
+
+## 📫 Contacto
+
+- [Mis repositorios en GitHub](https://github.com/LanderosPaolo?tab=repositories)
+
+<!-- Puedes agregar aquí tu LinkedIn, portafolio y correo profesional cuando quieras publicarlos. -->
